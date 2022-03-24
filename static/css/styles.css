@@ -1,0 +1,65 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+body {
+    background-color: #393c41;
+    text-align: center;
+}
+
+
+.navbar {
+    background-color: #313741;
+}
+
+a {
+    color: #00ADB5;
+    font-weight: 500;
+
+    
+}
+
+a:hover {
+    color: #EEEEEE;
+    transition: all 2 s ease;
+
+  }
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.card {
+    background-color: #EEEEEE;
+}
+
+.btn-secondary {
+    border: none;
+    width: 10rem;
+    background-color: #00ADB5;
+}
+
+.btn-secondary:hover {
+    color: #00ADB5;
+    background-color: #222831;
+    transition: all 0.5s ease;
+}
+
+.card {
+    border-radius: 0.8em;
+}
+
+.card-body {
+    padding: 3rem;
+}
+
+.output {
+    color: #00ADB5;
+}
+
+select {
+    width: 10rem;
+    text-align: center;
+    margin-left: 10px;
+}
+
+
