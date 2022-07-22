@@ -23,7 +23,7 @@ Dataset: [![](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-ca
 Clone the repository on your local environment <br>
 
 ```bash
-git clone https://github.com/Nishith-Reddy/Ml_Car_Price_Prediction`
+git clone https://github.com/Nishith-Reddy/Ml_Car_Price_Prediction
 ```
 Navigate to the folder <br>
 ```bash 
