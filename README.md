@@ -15,7 +15,7 @@ Link: [https://ask-car-price.herokuapp.com](https://ask-car-price.herokuapp.com)
 [![](https://i.imgur.com/GqErsg7.png)](https://ask-car-price.herokuapp.com)
 
 ## Overview
-This is a Flask web app which predicts the selling price of a car using multiple linear regression model made by me and my friend Nishith: [https://github.com/Nishith-Reddy](https://github.com/Nishith-Reddy)
+This is a Flask web app which predicts the selling price of a car using multiple linear regression model made by me and my friend [Nishith](https://github.com/Nishith-Reddy) 
 
 Dataset: [![](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
